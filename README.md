@@ -34,7 +34,7 @@ Next I pulled the information to create the summary statistics and to determine 
 - Set the x_axis equal to ride fares for each city
 The plot shows that the average number of drivers in Urban areas far exceeds the average number of drivers in Rural areas by around 9 times. The Suburban cities had significantly less average drivers too.
 
-![fig2](Analysis/Fig1.png)
+![fig2](Analysis/Fig2.png)
 
 I calculated the percentage of the overall fares for each type of city and depicted it in a pie chart.
 To create this pie chart, I found the following information:
