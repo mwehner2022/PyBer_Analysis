@@ -27,7 +27,7 @@ In the online activity, I created a chart that showed the average fare versus th
 - Made the size of each marker, or bubble, correlate to the average number of drivers for each type of city
 Based on the results, there are more rides in the Urban cities at a lower fare, while there are less rides in Rural cities at a higher fare.
 
-![fig1](Fig1.png)
+![fig1](Analysis/Fig1.png)
 
 Next I pulled the information to create the summary statistics and to determine if there are any outliers by using a box-and-whisker plot. To display this chart I gathered the following information:
 - Found the ride fares for each city
@@ -43,7 +43,7 @@ To create this pie chart, I found the following information:
 - Calculate the percentage of the total fares for each city type.
 Based on the pie chart, Urban cities accounted for the largest portion of total fares at almost 63%. Suburban accounted for almost 31% and Rural almost 7%.
 
-![mean results](Fig5.png)
+![fig5](Fig5.png)
 
 I calculated the percentage of total rides for each type of city and depicted it in a pie chart.
 To create this pie chart, I found the following information:
