@@ -84,7 +84,7 @@ The last step of the challenge was to create a multiple-line chart of total fare
 - The labeled line chart in created.
 The line chart shows that over the course of the year between January and May 2019, Urban city rides accounted for the most fares. Suburban fares accounted for second most and Rural fares accounted for the least. All cities had a peak in fares in the weeks just before march and the weeks just after March begins. However, right at the start of March, all cities experience a dip in overall fares. Overall, the weeks leading up to March and the weeks just after, make up some of the highest fares for Urban cities.
 
-![line graph](Analysis/Total_Fare_by_City_Type.png)
+![line graph](Analysis/PyBer_fare_summary.png
 
 ### **Summary**
 In summary, Urban cities had the most rides at 1,625 followed by Suburban at 625, and Rual at 125. Urban cities had more driveres than rides at 2,405. Both Suburban and Rural cities had less drivers than rides at 490 and 78 respectively. Pyber makes the most money from Urban rides, then Suburban and the least from Rural. Both Urban and Suburban average drivers' fares are less than the average fare per ride meaning Pyber makes moeny off these rides. However, in Rural cities, the average driver's fare is more that the fare per ride meaning PyBer may be losing money. 
