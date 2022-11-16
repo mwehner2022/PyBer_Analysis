@@ -67,8 +67,8 @@ Urban drivers accounted for the most drivers at almost 81% followed by Suburban 
 For the challenge, I created a ride-sharing summary DataFrame by city type. To do this, I took these steps:
 - The total number of rides for each city type was retrieved.
 - The total number of drivers for each city type was retrieved.
-  - The sum of the fares for each city type was retrieved.
-  - The average fare per ride for each city type was calculated.
+- The sum of the fares for each city type was retrieved.
+- The average fare per ride for each city type was calculated.
 - The average fare per driver for each city type was calculated.
 - A PyBer summary DataFrame was created.
 The summary DataFrame showed that the city type, Rural, had the least amount of rides at 125 and only had 78 drivers. It accounted for the least amount of money at $4,327.93 but had the highest average fare per ride at $34.62 and the highest fare per driver at $55.49. So the driver fare cost more than the ride fare. The Urban city type had the most rides, 1625, and the most drivers, 2405. It made the most money overall, $39.854.38. However the urban cities average fare per ride was the least expensive at $24.54 and the driver’s fare was the least at $16.57. Suburban cities had 625 rides with 490 drivers and accounted for $19,356.33. The average fare per ride was $30.97 and the average fare per driver was $39.50.
